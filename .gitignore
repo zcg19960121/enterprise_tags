@@ -1,0 +1,9 @@
+/.idea
+/target
+/out
+!/project/target/build.properties
+!/project/target/plugins.sbt
+/project
+*.log
+*.jar
+*.class
