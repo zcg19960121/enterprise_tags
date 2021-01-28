@@ -1,9 +1,8 @@
 /.idea
 /target
 /out
-!/project/target/build.properties
-!/project/target/plugins.sbt
-/project
+/project/target
+/project/project
 *.log
 *.jar
 *.class
